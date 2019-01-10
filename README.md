@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
+## Purpose
+
+This project was created to minimize the amount of time spent scaffolding, installing/managing dependencies, and preparing the environment prior to beginning a new angular project.
+Use only for web development and desktop applications. See Stanley-Vanilla-mobile for a mobile version of the project. 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
