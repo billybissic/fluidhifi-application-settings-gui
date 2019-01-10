@@ -7,6 +7,24 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project was created to minimize the amount of time spent scaffolding, installing/managing dependencies, and preparing the environment prior to beginning a new angular project.
 Use only for web development and desktop applications. See Stanley-Vanilla-mobile for a mobile version of the project. 
 
+## Project Dendencies
+
+Inside of this project you will find tools necessary to build various types of projects. Below is a list of those dependencies along with their version numbers.
+    "@ckeditor/ckeditor5-angular": "^1.0.1"
+    "@ckeditor/ckeditor5-build-classic": "^11.2.0"
+    "@fortawesome/angular-fontawesome": "^0.3.0"
+    "@fortawesome/fontawesome-svg-core": "^1.2.4"
+    "@fortawesome/free-solid-svg-icons": "^5.3.1"
+    "@ng-bootstrap/ng-bootstrap": "^4.0.0"
+    "angular-calendar": "^0.26.1"
+    "angularx-flatpickr": "^6.1.0"
+    "auth0-js": "^9.8.2"
+	"bootstrap": "^4.1.3"
+    "ng2-file-upload": "^1.3.0"
+    "ngx-bootstrap": "^3.1.1"
+    "ngx-color-picker": "^6.7.0"
+    "ngx-contextmenu": "^5.1.1"
+
 ## Usage
 Prior to beginning any development, run `npm install` in project's root directory before beginning any development to install the node_modules listed in the package.json file. 
 Once complete run the `ng serve` command and verify the initial project runs cleanly after downloading the required modules.
