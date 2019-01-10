@@ -7,6 +7,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project was created to minimize the amount of time spent scaffolding, installing/managing dependencies, and preparing the environment prior to beginning a new angular project.
 Use only for web development and desktop applications. See Stanley-Vanilla-mobile for a mobile version of the project. 
 
+## Usage
+Prior to beginning any development, run `npm install` in project's root directory before beginning any development to install the node_modules listed in the package.json file. 
+Once complete run the `ng serve` command and verify the initial project runs cleanly after downloading the required modules.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
