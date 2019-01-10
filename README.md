@@ -10,19 +10,32 @@ Use only for web development and desktop applications. See Stanley-Vanilla-mobil
 ## Project Dendencies
 
 Inside of this project you will find tools necessary to build various types of projects. Below is a list of those dependencies along with their version numbers.
+
+### CKEditor
     "@ckeditor/ckeditor5-angular": "^1.0.1"
     "@ckeditor/ckeditor5-build-classic": "^11.2.0"
+### FontAwesome
     "@fortawesome/angular-fontawesome": "^0.3.0"
     "@fortawesome/fontawesome-svg-core": "^1.2.4"
     "@fortawesome/free-solid-svg-icons": "^5.3.1"
+### NG Bootstrap
     "@ng-bootstrap/ng-bootstrap": "^4.0.0"
+    
+### Angular Calendar
     "angular-calendar": "^0.26.1"
+### Angular Flatpickr
     "angularx-flatpickr": "^6.1.0"
+### Auth0
     "auth0-js": "^9.8.2"
+### Bootstrap
 	"bootstrap": "^4.1.3"
+### NG2-File-Upload
     "ng2-file-upload": "^1.3.0"
+### NGX-Bootstrap
     "ngx-bootstrap": "^3.1.1"
+### NGX-Color-Picker
     "ngx-color-picker": "^6.7.0"
+### NGX-ContextMenu
     "ngx-contextmenu": "^5.1.1"
 
 ## Usage
