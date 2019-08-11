@@ -27,7 +27,6 @@ import { CallbackComponent } from './components/callback/callback.component';
 import { ModalComponent } from './modals/modal/modal.component';
 import { ModalCancelComponent } from './modals/modal-cancel/modal-cancel.component';
 import { ModalConfirmComponent } from './modals/modal-confirm/modal-confirm.component';
-import { ModalConfirmComponent } from './modals/modal-confirm/modal-confirm.component';
 import { ModalOkComponent } from './modals/modal-ok/modal-ok.component';
 import { ModalOkCancelComponent } from './modals/modal-ok-cancel/modal-ok-cancel.component';
 import { ModalVanillaComponent } from './modals/modal-vanilla/modal-vanilla.component';
